@@ -17,8 +17,18 @@ A big :video_game:-gamer! Check out the [games](https://amywhying.itch.io/) I ha
 
 ---
 <h6 align="center">
-Let's connect and chat! Open to anything under the :sunny:
+  Let's connect and chat! Open to anything under the :sunny:
 </h6>
+
+<p align="center">
+  <a href="https://github.com/amywhying">
+  <img src="github-fill.png">
+  </a>
+  <a href="https://www.linkedin.com/in/pak-yan-ying-amy/">
+  <img src="linkedin-box-fill.png">
+</p>
+
+
 <!--
 **amywhying/amywhying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +39,18 @@ Let's connect and chat! Open to anything under the :sunny:
 
 I'm currently 
 
+
+![](github-fill.png)
+![](linkedin-box-fill.png)
+
+
+  </a>
+  <a href="https://www.qries.com/">
+  <img src="discord-fill.png">
+  </a>
+  
 <details>
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
