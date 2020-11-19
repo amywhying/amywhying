@@ -1,4 +1,4 @@
-# :tea: Pak Yan Ying :left_right_arrow: Amy :cat:
+## :tea: Pak Yan Ying :left_right_arrow: Amy :cat:
 
 Grew up in :hong_kong: and went to highschool in :uk:
 
