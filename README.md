@@ -1,6 +1,6 @@
 ## :tea: Pak Yan Ying :left_right_arrow: Amy :cat:
 
-Grew up in :hong_kong: :arrow_right: Went to highschool in :uk: :arrow_down:
+Grew up in :hong_kong: and went to highschool in :uk:
 
 Now studying @NEU :us: as a third-year student majoring in CS and minoring in maths.
 
