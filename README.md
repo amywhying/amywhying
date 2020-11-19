@@ -6,7 +6,7 @@ Now studying @NEU :us: as a third-year student majoring in CS and minoring in ma
 
 ### Work Experience:
 
-Past QA intern at [Carbonite](https://www.carbonite.com/) :dizzy: and I am currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:!
+Past QA intern at [Carbonite](https://www.carbonite.com/) :dizzy: and currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:!
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amywhying)
