@@ -15,6 +15,7 @@ A big :video_game:-gamer! Check out the [games](https://amywhying.itch.io/) I ha
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amywhying)
 
+---
 <h6 align="center">
 Let's connect and chat! Open to anything under the :sunny:
 </h6>
