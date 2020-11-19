@@ -8,6 +8,9 @@ Now studying @NEU :us: as a third-year student majoring in CS and minoring in ma
 
 Past QA intern at [Carbonite](https://www.carbonite.com/) :dizzy: and currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:!
 
+### Fun Fact about me:
+
+A big :video_game:-gamer! Check out the [games](https://amywhying.itch.io/) I have developed in the past!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amywhying)
 
