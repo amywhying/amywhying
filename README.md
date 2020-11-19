@@ -13,7 +13,7 @@ Past QA intern at [Carbonite](https://www.carbonite.com/) :dizzy: and currently 
 
 A big :video_game:-gamer! Check out the [games](https://amywhying.itch.io/) I have created in the past!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=amywhying)
+
 
 ---
 <h6 align="center">
@@ -23,7 +23,7 @@ Let's connect and chat! Open to anything under the :sunny:
 **amywhying/amywhying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### :speech_balloon: Contact Info
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=amywhying)
 
 ### :file_folder: Current Project 
 
