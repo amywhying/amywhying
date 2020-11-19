@@ -2,7 +2,7 @@
 
 Grew up in :hong_kong: and went to highschool in :uk:
 
-Now studying @NEU :us: as a third-year student majoring in CS and minoring in maths.
+Now studying at Northeastern University :us: as a third-year student majoring in CS and minoring in maths.
 
 
 ### Work Experience:
