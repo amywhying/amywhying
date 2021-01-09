@@ -7,7 +7,7 @@ Now studying at Northeastern University :us: as a third-year student majoring in
 
 ### Work Experience:
 
-Past QA intern at [Carbonite](https://www.carbonite.com/) :dizzy: and currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:!
+Past QA Co-op at [Carbonite](https://www.carbonite.com/) :dizzy: and currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:!
 
 ### Fun Fact about me:
 
