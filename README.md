@@ -11,7 +11,7 @@ Now studying at Northeastern University :us: as a third-year student majoring in
 
 :star: Current: Fullstack Software Engineer @ [Byto](https://www.byto.tech/) :bread:
 
-:star: Incoming: Security Software Engineer Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
+:star: Incoming: Security Software Engineering Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
 
 ### Fun Fact about me:
 
