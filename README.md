@@ -7,7 +7,7 @@ Now studying at Northeastern University :us: as a third-year student majoring in
 
 ### Work Experience:
 
-:star: Past QA Co-op at [Carbonite](https://www.carbonite.com/) :cloud:
+:star: Past QA Automation Co-op at [Carbonite](https://www.carbonite.com/) :cloud:
 
 :star: Currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:
 
