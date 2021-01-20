@@ -7,11 +7,11 @@ Now studying at Northeastern University :us: as a third-year student majoring in
 
 ### Work Experience:
 
-+ Past QA Co-op at [Carbonite](https://www.carbonite.com/) :dizzy:.
++ Past QA Co-op at [Carbonite](https://www.carbonite.com/) :dizzy: :cloud:
 
-+ Currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread:
++ Currently working as a Fullstack Software Engineer at [Byto](https://www.byto.tech/) :bread: :iphone:
 
-+ An incoming Security Software Engineer at [Klavyo](https://www.klaviyo.com/) :closed_lock_with_key:
++ An incoming Security Software Engineer at [Klavyo](https://www.klaviyo.com/) :e-mail: :closed_lock_with_key:
 
 ### Fun Fact about me:
 
