@@ -1,7 +1,8 @@
 ## :tea: Pak Yan Ying :left_right_arrow: Amy :cat:
 
-Grew up in _Hong Kong_ and went to highschool in the _UK_
-Now studying at Northeastern University in the _US_ as a third-year student majoring in CS and minoring in maths.
+Grew up in **Hong Kong** and went to highschool in the **UK**
+
+Now studying at Northeastern University in the **US** as a third-year student majoring in CS and minoring in maths.
 
 
 ### Work Experience:
