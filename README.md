@@ -1,6 +1,6 @@
 ## :tea: Pak Yan Ying :left_right_arrow: Amy :cat:
 
-Grew up in 🇭🇰 and went to highschool in the 🇬🇧
+Grew up in 🇭🇰 and went to highschool in 🇬🇧
 
 Now studying at Northeastern University in the 🇺🇸 as a third-year student majoring in CS and minoring in maths.
 
