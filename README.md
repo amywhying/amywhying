@@ -9,9 +9,10 @@ Now studying at Northeastern University :us: as a third-year student majoring in
 
 :star: Past: QA Automation Co-op @ [Carbonite](https://www.carbonite.com/) :cloud:
 
+:star: Past x 2: Security Software Engineering Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
+
 :star: Current: Fullstack Software Engineer @ [Byto](https://www.byto.tech/) :bread:
 
-:star: Current x 2: Security Software Engineering Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
 
 ### Fun Fact about me:
 
