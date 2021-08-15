@@ -7,7 +7,7 @@ Now studying at Northeastern University in the 🇺🇸 as a fourth-year student
 
 ### Work Experience:
 
-:star: 2020 Jul - Current: Fullstack Software Engineer @ [Byto](https://www.byto.tech/) :bread:
+🌟 2020 Jul - Current: Fullstack Software Engineer @ [Byto](https://www.byto.tech/) :bread:
 
 :star: 2021 Jan - Jul: Security Software Engineering Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
 
