@@ -7,11 +7,13 @@ Now studying at Northeastern University in the 🇺🇸 as a fourth-year student
 
 ### Work Experience:
 
-:star: 2019 Jan - Apr: QA Automation Co-op @ [Carbonite](https://www.carbonite.com/) :cloud:
-
 :star: 2020 Jul - Current: Fullstack Software Engineer @ [Byto](https://www.byto.tech/) :bread:
 
 :star: 2021 Jan - Jul: Security Software Engineering Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
+
+:star: 2020 Sep - Dec: Fundamentals of Computer Science 1 TA @ [Northeastern University](https://www.northeastern.edu/) 🏫
+
+:star: 2020 Jan - Apr: QA Automation Co-op @ [Carbonite](https://www.carbonite.com/) :cloud:
 
 
 
