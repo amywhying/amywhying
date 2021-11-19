@@ -5,6 +5,8 @@ Now studying at Northeastern University in the US as a fourth-year student major
 
 ### Work Experience:
 
+:dizzy: 2022 Summer: Incoming Software Engineering Intern @ [Riot Games](https://www.riotgames.com/en) :punch:
+
 🌟 2020 Jul - Current: Fullstack Software Engineer @ [Byto](https://www.byto.tech/) :bread:
 
 :star: 2021 Jan - Jul: Security Software Engineering Co-op @ [Klavyo](https://www.klaviyo.com/) :email:
